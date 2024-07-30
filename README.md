@@ -38,6 +38,10 @@ TIP: Ensure you configure access for this app to allow only authorized users to 
 ![image](https://github.com/user-attachments/assets/c6df3699-dcc3-4807-bd01-f192393c06ce)
 
 
+**Known limit**
+
+Works for Segment with < 2 million members (due to this Dataverse limitation - https://learn.microsoft.com/en-us/troubleshoot/power-platform/dataverse/plug-in-execution/dataverse-plug-ins-errors#error-message-size-exceeded-when-sending-context-to-sandbox )
+
 
 **Troubleshooting**
 
